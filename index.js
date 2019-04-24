@@ -7,7 +7,7 @@ bot.on("ready", async=> ) {
 });
 
 
-bot.login('NTY3NzY3MDc2NTA5NDUwMzA5.XL8S9A.NM6tkQ83rhW_o0ZdwoCmvVfYK0E');
+bot.login('NTY3NzY3MDc2NTA5NDUwMzA5.XMDa9A.4cq4QGJlnYHaFZNFH_JOrRGUaoM');
 
 bot.on("message", async message => {
 
