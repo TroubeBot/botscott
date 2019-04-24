@@ -7,7 +7,7 @@ bot.on("ready", async=> ) {
 });
 
 
-bot.login('NTY3NzY3MDc2NTA5NDUwMzA5.XMDa9A.4cq4QGJlnYHaFZNFH_JOrRGUaoM');
+bot.login(process.env.BOT_TOKEN);
 
 bot.on("message", async message => {
 
